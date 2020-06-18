@@ -1,0 +1,12 @@
+{
+  "name": "Webpage-Calculator",
+  "version": "0.0.1",
+  "description": "Online Calculator Webpage",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

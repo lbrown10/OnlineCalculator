@@ -1,0 +1,21 @@
+{
+  "name": "Webpage-Calculator",
+  "description": "A website for basic Calculator functionality",
+  "website": "https://github.com/lbrown10/OnlineCalculator",
+  "repository": "https://github.com/lbrown10/OnlineCalculator",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
